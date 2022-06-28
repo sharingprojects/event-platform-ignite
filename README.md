@@ -5,7 +5,6 @@ This project is a content/courses platform and it was building at the Ignite Lab
 
 ## Setup
 - [React JS](https://reactjs.org/docs/getting-started.html)
-- [React JS](https://reactjs.org/docs/getting-started.html)
 - [Vite](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 - [TypeScript](https://www.typescriptlang.org/docs/)
 - [Tailwind](https://tailwindcss.com/)
